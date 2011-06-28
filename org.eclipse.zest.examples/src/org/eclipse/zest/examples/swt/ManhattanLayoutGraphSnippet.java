@@ -24,10 +24,11 @@ import org.eclipse.zest.core.widgets.GraphNode;
 import org.eclipse.zest.layouts.algorithms.SpringLayoutAlgorithm;
 
 /**
- * This snippet shows how to use the findFigureAt to get the figure under the
- * mouse
+ * This snippet shows how to update the default connection router - modified
+ * from PaintSnippet,
  * 
- * @author Ian Bull
+ * @author Zoltan Ujhelyi
+ * @author Ian Bull - initial
  * 
  */
 public class ManhattanLayoutGraphSnippet {
